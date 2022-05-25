@@ -1,0 +1,61 @@
+#head{
+    color: burlywood;
+}
+#Q_player{
+    color: burlywood;
+}
+#A_player{
+    color: burlywood;
+}
+#main{
+    background-color:rgba(210, 105, 30, 0.5);
+    width: 50%;
+    border-radius: 20px;
+}
+#main_1{
+    background-color:rgba(210, 105, 30, 0.5);
+    width: 50%;
+    border-radius: 20px;
+}
+#Qna{
+    margin-top: 10px;
+    
+
+}
+#answer_input{
+    margin-bottom: 10px;
+}
+body{
+    background-image: url(wp2532971.jpg);
+    text-align: center;
+    background-size: cover;
+}
+#check{
+    font-size: 15px;
+    background-color: white;
+}
+#num2_input{
+    margin-bottom: 10px;
+}
+#head{
+    font-size: 35px;
+}
+#player_1name{
+    color: white;
+    float: left;
+}
+#player_2name{
+    color: white;
+    float: left;
+
+}
+#player1_score{
+    color: white;
+    float: left;
+
+}
+#player2_score{
+    color: white;
+    float: left;
+
+}

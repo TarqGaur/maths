@@ -1,0 +1,55 @@
+#div_log{
+    width: 50%;
+    height: 90%;
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    background-size: cover;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+body{
+    background-image: url(wp2532971.jpg);
+    background-size: cover;
+}
+#input_2{
+    width: 35%;
+    font-size: 15px;
+    height: 6%;
+    border-radius: 20px;
+    background-color: deepskyblue;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+#input_1{
+    width: 35%;
+    font-size: 15px;
+    height: 6%;
+    border-radius: 20px;
+    background-color: deepskyblue;
+    padding-left: 10px;
+
+    margin-top: 15px;
+}
+::placeholder{
+    color: black;
+    font-weight: bold;
+}
+#login_head{
+    color: red;
+    background-color:burlywood;
+    width:100%;
+}
+#button{
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: deepskyblue;
+    width: 35%;
+    border-radius: 30px;
+}
+#img_{
+border-radius: 75;
+width: 30%;
+height: 35%;
+margin-top: 50px;
+}
